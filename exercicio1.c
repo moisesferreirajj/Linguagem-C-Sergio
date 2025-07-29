@@ -14,7 +14,7 @@ int main () {
 
     printf("#===================#\n");
     printf("#   MOISES FERREIRA #\n");
-    printf("#      TDESN V2     #\n");
+    printf("#      TDESN V3     #\n");
     printf("#===================#\n");
 
     printf("\nQual o salario do funcionario?\n");
@@ -31,4 +31,6 @@ int main () {
     printf("Resultado do novo salario = %.2f", resultado);
     printf("\n");
     printf("O funcionario recebeu 25 porcento de aumento!");
+
+    return 0;
 }

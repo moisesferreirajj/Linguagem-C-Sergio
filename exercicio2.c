@@ -15,7 +15,7 @@ int main () {
 
     printf("#===================#\n");
     printf("#   MOISES FERREIRA #\n");
-    printf("#      TDESN V2     #\n");
+    printf("#      TDESN V3     #\n");
     printf("#===================#\n");
 
     printf("\nQual o salario do funcionario?\n");
@@ -26,7 +26,7 @@ int main () {
     imposto = salario * 0.07;
     resultado = salario + gratificacao - imposto;
 
-    printf("Resultado do antigo salario = %.2f", salario);
+    printf("\nResultado do antigo salario = %.2f", salario);
     printf("\n");
     printf("Resultado da gratificacao = %.2f", gratificacao);
     printf("\n");
@@ -34,4 +34,6 @@ int main () {
     printf("\n");
     printf("Resultado do salario com gratificacao e desconto do imposto = %.2f", resultado);
     printf("\n");
+
+    return 0;
 }
