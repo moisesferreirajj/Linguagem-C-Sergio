@@ -1,6 +1,11 @@
-//
-// Created by moises_j_ferreira on 29/07/2025.
-//
+/*
+* EXERCICIO 1
+* Faça um programa que receba o salário de um funcionário, calcule e mostre:
+* o salário atual,
+* o valor do aumento e
+* o novo salário, sabendo-se que este sofreu um aumento de 25%.
+*/
+
 #include <stdio.h>
 
 int main () {
@@ -12,7 +17,7 @@ int main () {
     printf("#      TDESN V2     #\n");
     printf("#===================#\n");
 
-    printf("\nQual o salario daquele funcionario?\n");
+    printf("\nQual o salario do funcionario?\n");
     scanf("%f", &salario);
 
     printf("Efetuando calculo...\n");
@@ -25,5 +30,5 @@ int main () {
     printf("\n");
     printf("Resultado do novo salario = %.2f", resultado);
     printf("\n");
-    printf("Voce recebeu 25 porcento de aumento, meus parabens!");
+    printf("O funcionario recebeu 25 porcento de aumento!");
 }
