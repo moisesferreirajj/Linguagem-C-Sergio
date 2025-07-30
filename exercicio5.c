@@ -1,7 +1,7 @@
 /*
-* EXERCICIO 4
-* Faça um programa que receba quatro números inteiros,
-* calcule e mostre a soma desses números.
+* EXERCICIO 5
+* Faça um programa que receba três notas,
+* calcule e mostre a media aritmetica.
 */
 
 #include <stdio.h>

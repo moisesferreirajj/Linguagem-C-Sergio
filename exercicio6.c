@@ -1,5 +1,5 @@
 /*
-* EXERCICIO 5
+* EXERCICIO 6
 * Faça um programa que receba TRÊS notas e seus
 * respectivos PESO, calcule e mostre a MÉDIA PONDERADA.
 */
