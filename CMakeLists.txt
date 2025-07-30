@@ -4,5 +4,5 @@ project(untitled1 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(untitled1
-        exercicioif-03.c
+        lista-switch-02.c
 )
